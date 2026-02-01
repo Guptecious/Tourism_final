@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data & models
+data/
+tourism_project/data/
+tourism_project/model_building/
+*.csv
+*.json
+*.pkl
+*.h5
+*.onnx
+*.joblib
+
+# Colab/Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Environment
+.env
+.venv/
+env/
+venv/
+*.egg-info/
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
